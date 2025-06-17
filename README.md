@@ -1,5 +1,5 @@
 #  About Me:
-Hi, I'm Viktoria. I have worked with both front-end and back-end development and love the challenge of solving complex problems. Programming is something I've grown to love, and I’m always excited to build well-thought-out systems. When I'm not coding, you'll probably find me out playing sports.
+Hi, I'm Viktoria. I have worked on various projects and love the challenge of solving complex problems. Programming is something I've grown to love, and I’m always excited to build well-thought-out systems. When I'm not coding, you'll probably find me out playing sports.
 
 ## What I'm Working On
 
