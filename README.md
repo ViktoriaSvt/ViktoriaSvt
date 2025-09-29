@@ -1,11 +1,4 @@
 ## Hi, im Viki!
-## What I'm Working On
-
-Right now, I'm looking into receiving my cisco CCNA cert while practicitng my skills in automation and cloud. I also recently finished a crypto trading simulator so feel free to check it out in my pinned repositories!
-
-
-
-
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktoriasvt)  
